@@ -1,5 +1,5 @@
 ### Hi, I'm Eljan Hamidov👋
-- Work
+- 🖥️ I've been coding over 2 years
 <!--
 **Elcan-hamid/Elcan-hamid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
