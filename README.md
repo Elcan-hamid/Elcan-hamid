@@ -1,6 +1,7 @@
 ### Hi, I'm Eljan Hamidov👋
 - 🖥️ I've been coding over 2 years
-- 🏗️ I am deeply passionate about CRM projects as they play a pivotal role in crafting solutions that help businesses streamline processes, enhance user experiences, and foster lasting customer relationships
+- 🔭 I am currently honing my skills in algorithmic problem-solving using C++ on HackerRank
+- 🏗️ I am deeply passionate about **CRM** projects as they play a pivotal role in crafting solutions that help businesses streamline processes, enhance user experiences, and foster lasting customer relationships
 <!--
 **Elcan-hamid/Elcan-hamid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
